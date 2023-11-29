@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	아이디로 찾기 결과ab<br>
+	아이디로 찾기 결과ab cd<br>
 	아이디 : ${member.id} <br>
 	이름 : ${member.name} <br>
 	이메일 : ${member.email} <br>
